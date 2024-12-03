@@ -1,0 +1,19 @@
+@import './base.css';
+
+:root {
+    /* Colores oscuros */
+    --deep-blue-color: #003555;
+    --teal-dark-color: #017B93;
+
+    /* Colores intermedios */
+    --aqua-light-color: #63B0BA;
+    --teal-light-color: #03A4AA;
+
+    /* Colores brillantes */
+    --turquoise-bright-color: #00B3A8;
+    --mint-light-color: #D4F3F5;
+
+    /* Colores alternativos */
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+}
